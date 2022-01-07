@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @0x-Tart
+- 👀 I’m interested in Blockchain Development and Web 3
+- 🌱 I’m currently learning Solidity,Python, and more
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: Discord Tart#3041 and Twitter: @TartVerse
